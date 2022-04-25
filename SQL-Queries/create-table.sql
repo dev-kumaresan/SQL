@@ -1,0 +1,1 @@
+create table my_details(name varchar(20),age integer(3));
