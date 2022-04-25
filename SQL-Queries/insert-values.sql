@@ -1,0 +1,1 @@
+ insert into my_details values('kumaresan',24);
