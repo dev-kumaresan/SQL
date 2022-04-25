@@ -1,1 +1,1 @@
-CREATE DATABASE dev-kumaresan
+CREATE DATABASE dev_kumaresan;
