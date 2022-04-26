@@ -1,0 +1,1 @@
+ALTER table my_details add column dob date AFTER age;
