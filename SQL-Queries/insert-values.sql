@@ -1,1 +1,1 @@
- insert into my_details values('kumaresan',24);
+ insert into my_details values('kumaresan',24,'1998-10-13','MCA');
