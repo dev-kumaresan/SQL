@@ -1,0 +1,1 @@
+select name as Name from my_details;
