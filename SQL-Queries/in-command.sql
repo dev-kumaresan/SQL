@@ -1,0 +1,1 @@
+select name from my_details where name in('iv','ku');
